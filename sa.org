@@ -1,4 +1,17 @@
 * git init
+* git remote add origin <URL>
+* git remote set-url origin <URL>
+  可以用来更换传输协议
+  (显示：git remote -v )
+* git chekout -- <file>
+  丢弃工作区的修改
+* git reset HEAD <file>
+  回退到暂存区修改状态
+  
 * git add <file>
+  如果在add之后再次修改了文件，又想将修改提交，则需再次add。
 * git commit -m "<LOG>"
+*
+
+
   
