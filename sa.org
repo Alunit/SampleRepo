@@ -34,3 +34,4 @@
 * git checkout -- dev origin/dev
   等于 git checkout -b dev origin/dev
   创建本地dev分支，并与远程dev关联
+* DEV CHANGE
