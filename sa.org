@@ -1,4 +1,6 @@
 * git init
+* git clone <URL>
+  从URL指定的地址复制项目
 * git remote add origin <URL>
 * git remote set-url origin <URL>
   可以用来更换传输协议
@@ -34,3 +36,4 @@
 * git checkout -- dev origin/dev
   等于 git checkout -b dev origin/dev
   创建本地dev分支，并与远程dev关联
+* 
