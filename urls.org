@@ -1,0 +1,4 @@
+- cygwin 镜像源地址
+  http://mirrors.163.com/cygwin/
+  
+  
