@@ -1,0 +1,70 @@
+* 2018/09/26
+  What I learned from a Taipei alley
+** words
+  | 0            | 1            | 2           | 3               | 4             |
+  |--------------+--------------+-------------+-----------------+---------------|
+  | even if      | notable      | tick off    | big game hunter | stuff         |
+  | quarry       | institutions | contemplate | cram            | piled up      |
+  | wind down    | stench       | pedestrian  | scurring over   | surges        |
+  | revulsion    | stash        | prevalent   | surveyor        | grime         |
+  | prostitution | dumpster     | squalid     | stinky          | stow          |
+  | stew         | stench       | concerted   | overhaul        | grumble       |
+  | stunning     | beverage     | scrap       | compulsory      | inconspicuous |
+  | holistic     | reactionary  | scooters    |                 |               |
+  |              |              |             |                 |               |
+  - the boy stuffed his pocket with candy
+  - the party was winding down
+  - the police found where he had stashed the drugs
+  - Sweden is known as a nation ridden by suicide and alcoholism, but those problems are no more prevalent here than in most european countries
+  - for years many of those residends of Bama lived in squalid camps or other temporary housing as clashes between fighters and the military destoried their town.
+  - he stowed his gear in a locker. luggage may be stowed under the seat.
+  - the meat still needs to stew
+  - they made a concerted effort to make her feel welcome.
+  - the mechanic overhauled the car's engine.
+  - she tried to remain as inconspicuous as possible so that no one would see her there.
+  
+  
+** grammar
+  tourist destinations
+  名词定语：英语中的名词不经任何变化用作定语修饰另外一个名词 , 这样的定语就叫做名词定语。名词定语往往是 说明材料、用途、时间、地点、内容、类别等。它既可以是有生命的，也可以是无生命的；既可以是可 数的，也可以是不可数的。
+  名词定语一般用单数形式，被修饰的名词变复数时，作定语用的名词不需要变为复数形式，但由man或woman作定语修饰的名词变成复数时，两部分皆要变为复数形式。
+
+
+* 2018/09/27
+  - the future of java and openjdk updates without oracle
+  - after century of removing appendixes docs find antobiotics can be even enough
+  
+  | 0            | 1        | 2        | 3             | 4         |
+  |--------------+----------+----------+---------------+-----------|
+  | relinquished | merits   | inflamed | guts          | surgery   |
+  | revelation   | acute    | dangling | cauterised    | wrose off |
+  | appedicitis  | invasive | scalpel  | interventions | incurred  |
+
+
+* 2018/09/28
+  | 0                         | 1           | 2            | 3            | 4          |
+  |---------------------------+-------------+--------------+--------------+------------|
+  | soft-sided picnic coolers | mundane     | vial         | syrupy       | paralyzing |
+  | counterfeit               | compromised | notoriously  | chronic      | stash      |
+  | gleaming                  | futuristic  | behemoth     | beams        | brace      |
+  | proprietary               | penalties   | outrageously | prescription | knowingly  |
+  | pandemic                  | gargantuan  | abundant     | hatched      | perils     |
+  | unshackled                | wreckage    | scent        | ubiquitous   | odor       |
+  | infiltrated               | concealed   | perilous     | rung         | props      |
+  | expenses                  | astounding  | repulsed     | hepatitis    | riddled    |
+  |                           |             |              |              |            |
+
+  - a steely resolve and charisma
+  - 
+
+* 2018/10/08
+  Rethinking our human origins in Africa
+  Tech Workers Now Want to Know: What Are We Building This For?
+  | 0           | 1             | 2              | 3          | 4            |
+  |-------------+---------------+----------------+------------+--------------|
+  | alleged     | reiterated    | temper         | commerce   | committee    |
+  | proprietary | outbound      | archaeological | interbred  | archaic      |
+  | slender     | protruding    | scattered      | alarmed    | surveillance |
+  | comply      | rhetorically  | petitions      | executives | clarity      |
+  | evident     | incorporating | retaliation    | underpins  | exploratory  |
+  | rippled     | pledge        | complicit      |            |              |
